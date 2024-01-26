@@ -1,0 +1,1 @@
+A repo for trying auth in typescript with mongodb
